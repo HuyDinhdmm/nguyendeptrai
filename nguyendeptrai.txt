@@ -1,7 +1,2 @@
 Nguyen dep trai nhat the gioi
 Nguyen dep trai nhat the gioi
-<<<<<<< HEAD
-dumamay deo bay
-=======
-
->>>>>>> nguyendeptraivl
